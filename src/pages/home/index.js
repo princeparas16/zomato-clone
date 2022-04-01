@@ -7,7 +7,7 @@ import DiningOut from "../../components/diningOut";
 import Nightlife from "../../components/nightlife";
 
 const Home = () => {
-  const [activeTab, setActiveTab] = useState("Delivery");
+  const [activeTab, setActiveTab] = useState("Nightlife");
 
   return (
     <div>
